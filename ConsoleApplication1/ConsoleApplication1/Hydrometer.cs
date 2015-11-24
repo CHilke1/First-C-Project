@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
+    public int Specific_Gravity;
     class Hydrometer
     {
+        public Hydrometer()
     }
 }

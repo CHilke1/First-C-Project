@@ -8,5 +8,8 @@ namespace ConsoleApplication1
 {
     class Hops
     {
+        public Hops () { }
+
+
     }
 }

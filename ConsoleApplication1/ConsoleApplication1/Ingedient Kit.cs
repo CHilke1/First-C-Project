@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class Ingedient_Kit
+    class Ingedient_Kit : Malt, Hops, Yeast, Water
     {
     }
 }

@@ -8,5 +8,15 @@ namespace ConsoleApplication1
 {
     class Fermentation_Lock
     {
+        public void Fementation_Lock()
+        {
+
+        }
+
+        public lock {
+
+        }
+
+        
     }
 }

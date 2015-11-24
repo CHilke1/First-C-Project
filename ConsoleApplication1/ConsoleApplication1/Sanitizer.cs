@@ -8,5 +8,10 @@ namespace ConsoleApplication1
 {
     class Sanitizer
     {
-    }
+        public Sanitizer()
+        {
+
+        }
+        public sanitiize()
+        {    }
 }

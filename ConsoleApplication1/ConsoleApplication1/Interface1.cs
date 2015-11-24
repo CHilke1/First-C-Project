@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class Starter_Kit : Hydrometer, Brew_Kettles, Fermentation_Lock, Fermentation_Vessel, Spoon, Sanitizer
+    interface Interface1
     {
     }
 }

@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
+    float Gallons;
     class Water
     {
+
     }
+
+
 }
